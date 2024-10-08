@@ -7,6 +7,7 @@
 ||xender.com^
 ||syncios.com^
 ||filetransfer.io^$important
+||filetransfer.io/^
 ||sendgb.com^
 ||dropair.app^
 ||samsung.com/sidesync^
