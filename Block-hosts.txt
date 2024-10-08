@@ -6,7 +6,7 @@
 ||zapya.app^
 ||xender.com^
 ||syncios.com^
-||filetransfer.io^
+||filetransfer.io^$important
 ||sendgb.com^
 ||dropair.app^
 ||samsung.com/sidesync^
