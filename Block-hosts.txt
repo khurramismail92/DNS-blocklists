@@ -1,6 +1,4 @@
 ||dropbox.com^
-||drive.google.com^
-||onedrive.live.com^
 ||box.com^
 ||boxcdn.net^
 ||icloud.com^
