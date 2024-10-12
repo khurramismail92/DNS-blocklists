@@ -71,6 +71,7 @@
 ||load.to^
 ||massive.io^
 ||mediafire.com^
+||mailbigfile.com^
 ||mega.nz^
 ||moboplay.com^
 ||myairbridge.com^
