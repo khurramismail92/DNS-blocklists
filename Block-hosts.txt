@@ -15,6 +15,7 @@
 ||desuploader.com^
 ||disk.yandex.com^
 ||dl.free.fr^
+||transfert.free.fr^
 ||drfone.wondershare.com^
 ||drive.google.com^
 ||drop.io^
