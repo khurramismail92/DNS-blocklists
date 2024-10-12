@@ -16,8 +16,7 @@
 ||disk.yandex.com^
 ||dl.free.fr^
 ||transfert.free.fr^
-||drfone.wondershare.com^
-||drive.google.com^
+||drfone.wondershare.net^
 ||drop.io^
 ||dropair.app^
 ||dropapk.com^
