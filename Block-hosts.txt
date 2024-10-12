@@ -69,15 +69,16 @@
 ||letsupload.cc^
 ||letsupload.io^
 ||load.to^
+||mailbigfile.com^
 ||massive.io^
 ||mediafire.com^
-||mailbigfile.com^
 ||mega.nz^
 ||moboplay.com^
 ||myairbridge.com^
 ||mydrive.ch^
 ||nextcloud.com^
 ||nitroflare.com^
+||nitroflare.net^
 ||oboom.com^
 ||onedrive.live.com^
 ||onionshare.org^
