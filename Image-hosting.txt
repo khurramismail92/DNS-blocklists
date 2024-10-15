@@ -1,5 +1,6 @@
 ||imgbb.com^
 ||imgur.com^
+||imgbox.com^
 ||imghippo.com^
 ||imageshack.com^
 ||imagevenue.com^
