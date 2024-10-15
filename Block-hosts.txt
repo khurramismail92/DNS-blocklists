@@ -1,4 +1,5 @@
 ||4shared.com^
+||drivehq.com^
 ||airdroid.com^
 ||alfafile.net^
 ||amazon.com/clouddrive^
